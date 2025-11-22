@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yafet  
+
 
 🎓 Junior Developer | 💻 Student at AASTU  
 🌍 Passionate about **building, learning, and solving problems** with code  
